@@ -4,7 +4,6 @@ import org.junit.Test
 import java.text.NumberFormat
 
 class TipCalculatorTests {
-
     @Test
     fun calculateTip_20PercentNoRoundup() {
         val amount = 10.00
